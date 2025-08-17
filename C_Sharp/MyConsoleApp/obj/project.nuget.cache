@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "XinKjJuBjMM=",
+=======
+  "dgSpecHash": "PaN9eKgz7bY=",
+>>>>>>> 7909091 (no message)
   "success": true,
   "projectFilePath": "C:\\Ryan_Csharp\\C_Sharp\\MyConsoleApp\\MyConsoleApp.csproj",
   "expectedPackageFiles": [],
