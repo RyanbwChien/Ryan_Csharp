@@ -8,7 +8,7 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\USER\\.nuget\\packages\\": {}
+    "C:\\Users\\Ryan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -16,15 +16,11 @@
       "projectUniqueName": "C:\\Ryan_Csharp\\C_Sharp\\MyConsoleApp\\MyConsoleApp.csproj",
       "projectName": "MyConsoleApp",
       "projectPath": "C:\\Ryan_Csharp\\C_Sharp\\MyConsoleApp\\MyConsoleApp.csproj",
-<<<<<<< HEAD
       "packagesPath": "C:\\Users\\Ryan\\.nuget\\packages\\",
-=======
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
->>>>>>> 7909091 (no message)
       "outputPath": "C:\\Ryan_Csharp\\C_Sharp\\MyConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Ryan\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -68,8 +64,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.413/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.412/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Ryan_Csharp\\C_Sharp\\MyConsoleApp\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

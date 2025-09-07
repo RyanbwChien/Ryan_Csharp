@@ -1,12 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "XinKjJuBjMM=",
-=======
-  "dgSpecHash": "PaN9eKgz7bY=",
->>>>>>> 7909091 (no message)
   "success": true,
   "projectFilePath": "C:\\Ryan_Csharp\\C_Sharp\\MyConsoleApp\\MyConsoleApp.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Ryan_Csharp\\C_Sharp\\MyConsoleApp\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
